@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loginDBZ", "loginDBZ.csproj", "{CCCBB7DA-D9DE-40D8-A339-E64D56232DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCCBB7DA-D9DE-40D8-A339-E64D56232DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCBB7DA-D9DE-40D8-A339-E64D56232DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCBB7DA-D9DE-40D8-A339-E64D56232DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCBB7DA-D9DE-40D8-A339-E64D56232DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C786DE23-F7F8-4B3B-A984-50901855F51B}
+	EndGlobalSection
+EndGlobal
